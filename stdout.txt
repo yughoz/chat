@@ -1,0 +1,138 @@
+19 replies:
+administrator
+Socket Connected: qdb9miaQZf9GDQF9AAAA
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.84501876261343,
+  message: 'gdrg' }
+gdrg
+qdb9miaQZf9GDQF9AAAA
+administrator
+Socket Connected: iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.929886376455203,
+  message: 'gdrgdrg' }
+gdrgdrg
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.24443159919115232,
+  message: 'gdrgdrg' }
+gdrgdrg
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.490604440443861,
+  message: 'ok' }
+ok
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.2337455746176611,
+  message: 'ofesokf' }
+ofesokf
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.9576328714809208,
+  message: 'okspofks' }
+okspofks
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.4363016759043121,
+  message: 'okspofkes' }
+okspofkes
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.3838782157340046,
+  message: 'gjyhg' }
+gjyhg
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.7428983137684042,
+  message: 'khukhukhu' }
+khukhukhu
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.7979148870021873,
+  message: 'kuhk' }
+kuhk
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.7635352415595957,
+  message: 'hukhuk' }
+hukhuk
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.028085641572253017,
+  message: 'hukhu' }
+hukhu
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.9077525863123148,
+  message: '1' }
+1
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.18402606367635665,
+  message: '2' }
+2
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.722032601083884,
+  message: '3' }
+3
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.019624168436527034,
+  message: '4' }
+4
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.7281086896592774,
+  message: '5' }
+5
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.3723054271680959,
+  message: '' }
+
+iJKP5y2mP8X1t8nGAAAB
+{ username: 'administrator',
+  classEdit: '1',
+  UID: '1',
+  idRand: 0.4064381999166502,
+  message: '' }
+
+iJKP5y2mP8X1t8nGAAAB

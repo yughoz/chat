@@ -9,3 +9,4 @@ Chat Beta
 		```bash
 		  node index.js
 		```
+	* redis-server --daemonize yes
