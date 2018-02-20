@@ -1,42 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>welocome</title>
 </head>
 <body>
-	<div id="chat">
-	    <ul id="message">
-	        <li v-for="message in messages" :key="message.id">{{ message }}</li>
-	    </ul>
-	    <form @submit="send">
-	        <input type="text" v-model="message">
-	        <button>Send</button>
-	    </form>
-	</div>
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.4/socket.io.js"></script>
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.2/vue.min.js"></script>
-	<script >
-		var socket = io();
-
-		new Vue({
-		    el:'#chat',
-		    data: {
-		        messages: [],
-		        message: '',
-		    },
-		    mounted: function() {
-		        socket.on('chat.message', function(message) {
-		            this.messages.push("yoo"+message);
-		        }.bind(this));
-		    },
-		    methods: {
-		        send: function(e) {
-		            socket.emit('chat.message', this.message);
-		            this.message = '';
-		            e.preventDefault();
-		        }
-		    }
-		})
-	</script>
+<H3>HELLO</H3>
 </body>
 </html>

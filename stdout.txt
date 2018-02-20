@@ -1,138 +1,666 @@
-19 replies:
-administrator
-Socket Connected: qdb9miaQZf9GDQF9AAAA
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.84501876261343,
-  message: 'gdrg' }
-gdrg
-qdb9miaQZf9GDQF9AAAA
-administrator
-Socket Connected: iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.929886376455203,
-  message: 'gdrgdrg' }
-gdrgdrg
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.24443159919115232,
-  message: 'gdrgdrg' }
-gdrgdrg
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.490604440443861,
-  message: 'ok' }
-ok
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.2337455746176611,
-  message: 'ofesokf' }
-ofesokf
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.9576328714809208,
-  message: 'okspofks' }
-okspofks
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.4363016759043121,
-  message: 'okspofkes' }
-okspofkes
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.3838782157340046,
-  message: 'gjyhg' }
-gjyhg
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.7428983137684042,
-  message: 'khukhukhu' }
-khukhukhu
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.7979148870021873,
-  message: 'kuhk' }
-kuhk
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.7635352415595957,
-  message: 'hukhuk' }
-hukhuk
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.028085641572253017,
-  message: 'hukhu' }
-hukhu
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.9077525863123148,
-  message: '1' }
-1
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.18402606367635665,
-  message: '2' }
-2
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.722032601083884,
-  message: '3' }
-3
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.019624168436527034,
-  message: '4' }
-4
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.7281086896592774,
-  message: '5' }
-5
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.3723054271680959,
-  message: '' }
-
-iJKP5y2mP8X1t8nGAAAB
-{ username: 'administrator',
-  classEdit: '1',
-  UID: '1',
-  idRand: 0.4064381999166502,
-  message: '' }
-
-iJKP5y2mP8X1t8nGAAAB
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: aXC7vYtLtb77PLT1AAAA
+{ _id: 'aXC7vYtLtb77PLT1AAAA',
+  action: 'disconnect',
+  name: 'administrator' }
+aXC7vYtLtb77PLT1AAAA
+Socket disconnected: aXC7vYtLtb77PLT1AAAA
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: UN7gxr4myn-9DWsOAAAB
+{ _id: 'UN7gxr4myn-9DWsOAAAB',
+  action: 'disconnect',
+  name: 'administrator' }
+UN7gxr4myn-9DWsOAAAB
+Socket disconnected: UN7gxr4myn-9DWsOAAAB
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: TYZ_MTkr6QpOcgVlAAAC
+{ _id: 'TYZ_MTkr6QpOcgVlAAAC',
+  action: 'disconnect',
+  name: 'administrator' }
+TYZ_MTkr6QpOcgVlAAAC
+Socket disconnected: TYZ_MTkr6QpOcgVlAAAC
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: lurH74jhnoPdg5WHAAAD
+{ _id: 'lurH74jhnoPdg5WHAAAD',
+  action: 'disconnect',
+  name: 'administrator' }
+lurH74jhnoPdg5WHAAAD
+Socket disconnected: lurH74jhnoPdg5WHAAAD
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: mWUm_NiHJCym6LyQAAAE
+undefined
+Socket Connected: X-It_GXIT1hiS0xwAAAF
+undefined
+Socket Connected: 8bXHwnQJUBfjwb2RAAAG
+undefined
+Socket Connected: g6Ei9Ku0m7oPqOKcAAAH
+undefined
+Socket Connected: Yu-jpv213CQoAMy6AAAI
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: tXPz7r4ehfYRRYEYAAAJ
+{ _id: 'tXPz7r4ehfYRRYEYAAAJ',
+  action: 'disconnect',
+  name: 'alvian' }
+tXPz7r4ehfYRRYEYAAAJ
+Socket disconnected: tXPz7r4ehfYRRYEYAAAJ
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: 8d_L9Kmcoc2I10P2AAAK
+{ _id: '8d_L9Kmcoc2I10P2AAAK',
+  action: 'disconnect',
+  name: 'alvian' }
+8d_L9Kmcoc2I10P2AAAK
+Socket disconnected: 8d_L9Kmcoc2I10P2AAAK
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: u60mG2pWhxiljY3BAAAL
+{ _id: 'u60mG2pWhxiljY3BAAAL',
+  action: 'disconnect',
+  name: 'alvian' }
+u60mG2pWhxiljY3BAAAL
+Socket disconnected: u60mG2pWhxiljY3BAAAL
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: 6ceImKa1-smc2LFOAAAM
+{ _id: '6ceImKa1-smc2LFOAAAM',
+  action: 'disconnect',
+  name: 'alvian' }
+6ceImKa1-smc2LFOAAAM
+Socket disconnected: 6ceImKa1-smc2LFOAAAM
+{ _id: 'mWUm_NiHJCym6LyQAAAE',
+  action: 'disconnect',
+  name: 'administrator' }
+mWUm_NiHJCym6LyQAAAE
+Socket disconnected: mWUm_NiHJCym6LyQAAAE
+undefined
+Socket Connected: 2QJ92zG9FGvAX6x5AAAN
+undefined
+Socket Connected: AI_WMxQcTiPrExnVAAAO
+undefined
+Socket Connected: cpOvI2zWWWImaCTzAAAP
+undefined
+Socket Connected: GENR_E7uTPMt4ysjAAAQ
+undefined
+Socket Connected: -LAsqWK9rgJ8VRr3AAAR
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: x7QWv4NGPm-uGSOkAAAS
+{ _id: 'x7QWv4NGPm-uGSOkAAAS',
+  action: 'disconnect',
+  name: 'alvian' }
+x7QWv4NGPm-uGSOkAAAS
+Socket disconnected: x7QWv4NGPm-uGSOkAAAS
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: BTaf9BT19aF_JP4rAAAT
+{ _id: 'BTaf9BT19aF_JP4rAAAT',
+  action: 'disconnect',
+  name: 'alvian' }
+BTaf9BT19aF_JP4rAAAT
+Socket disconnected: BTaf9BT19aF_JP4rAAAT
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: CASQJAxiEJKPJXjMAAAU
+{ _id: 'CASQJAxiEJKPJXjMAAAU',
+  action: 'disconnect',
+  name: 'alvian' }
+CASQJAxiEJKPJXjMAAAU
+Socket disconnected: CASQJAxiEJKPJXjMAAAU
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: t-qLmq7Tx_cLE8heAAAV
+{ _id: 't-qLmq7Tx_cLE8heAAAV',
+  action: 'disconnect',
+  name: 'alvian' }
+t-qLmq7Tx_cLE8heAAAV
+Socket disconnected: t-qLmq7Tx_cLE8heAAAV
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: cdCln5Njz4GHm897AAAW
+{ _id: 'cdCln5Njz4GHm897AAAW',
+  action: 'disconnect',
+  name: 'alvian' }
+cdCln5Njz4GHm897AAAW
+Socket disconnected: cdCln5Njz4GHm897AAAW
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: TfMV_yfetDkdRn94AAAX
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: T6aQ7HR3891De7SuAAAY
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: -VwwstdLHcGI5OOcAAAZ
+{ _id: 'T6aQ7HR3891De7SuAAAY',
+  action: 'disconnect',
+  name: 'alvian' }
+T6aQ7HR3891De7SuAAAY
+Socket disconnected: T6aQ7HR3891De7SuAAAY
+{ _id: '-VwwstdLHcGI5OOcAAAZ',
+  action: 'disconnect',
+  name: 'alvian' }
+-VwwstdLHcGI5OOcAAAZ
+Socket disconnected: -VwwstdLHcGI5OOcAAAZ
+{ _id: 'TfMV_yfetDkdRn94AAAX',
+  action: 'disconnect',
+  name: 'administrator' }
+TfMV_yfetDkdRn94AAAX
+Socket disconnected: TfMV_yfetDkdRn94AAAX
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: nd58uojLbvBrFVsBAAAa
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: VOlB_-nxBIYv0PlaAAAb
+{ _id: 'nd58uojLbvBrFVsBAAAa',
+  action: 'disconnect',
+  name: 'administrator' }
+nd58uojLbvBrFVsBAAAa
+Socket disconnected: nd58uojLbvBrFVsBAAAa
+{ _id: 'VOlB_-nxBIYv0PlaAAAb',
+  action: 'disconnect',
+  name: 'administrator' }
+VOlB_-nxBIYv0PlaAAAb
+Socket disconnected: VOlB_-nxBIYv0PlaAAAb
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: Fb8Q15bIeBKAs7cfAAAc
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: PjDh1v8UV_Ftxi_VAAAd
+{ _id: 'PjDh1v8UV_Ftxi_VAAAd',
+  action: 'disconnect',
+  name: 'administrator' }
+PjDh1v8UV_Ftxi_VAAAd
+Socket disconnected: PjDh1v8UV_Ftxi_VAAAd
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: _5T7K4hYgXMl-8Z1AAAe
+{ _id: 'Fb8Q15bIeBKAs7cfAAAc',
+  action: 'disconnect',
+  name: 'administrator' }
+Fb8Q15bIeBKAs7cfAAAc
+Socket disconnected: Fb8Q15bIeBKAs7cfAAAc
+{ _id: '_5T7K4hYgXMl-8Z1AAAe',
+  action: 'disconnect',
+  name: 'administrator' }
+_5T7K4hYgXMl-8Z1AAAe
+Socket disconnected: _5T7K4hYgXMl-8Z1AAAe
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: BSpK23FXTFEXwq9bAAAf
+{ _id: 'BSpK23FXTFEXwq9bAAAf',
+  action: 'disconnect',
+  name: 'administrator' }
+BSpK23FXTFEXwq9bAAAf
+Socket disconnected: BSpK23FXTFEXwq9bAAAf
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: lp9T7TdzckfP7W-OAAAg
+{ _id: 'lp9T7TdzckfP7W-OAAAg',
+  action: 'disconnect',
+  name: 'administrator' }
+lp9T7TdzckfP7W-OAAAg
+Socket disconnected: lp9T7TdzckfP7W-OAAAg
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: XRvYUCyuLKDgdfAyAAAh
+{ _id: 'XRvYUCyuLKDgdfAyAAAh',
+  action: 'disconnect',
+  name: 'administrator' }
+XRvYUCyuLKDgdfAyAAAh
+Socket disconnected: XRvYUCyuLKDgdfAyAAAh
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: 7oc-wX6_cnXGYP3VAAAi
+{ _id: '7oc-wX6_cnXGYP3VAAAi',
+  action: 'disconnect',
+  name: 'administrator' }
+7oc-wX6_cnXGYP3VAAAi
+Socket disconnected: 7oc-wX6_cnXGYP3VAAAi
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: Nvi7dZ03XDvdCPDNAAAj
+{ _id: 'Nvi7dZ03XDvdCPDNAAAj',
+  action: 'disconnect',
+  name: 'administrator' }
+Nvi7dZ03XDvdCPDNAAAj
+Socket disconnected: Nvi7dZ03XDvdCPDNAAAj
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: yigauCdSRKBwGvYEAAAk
+{ _id: 'yigauCdSRKBwGvYEAAAk',
+  action: 'disconnect',
+  name: 'administrator' }
+yigauCdSRKBwGvYEAAAk
+Socket disconnected: yigauCdSRKBwGvYEAAAk
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: 3V5zPPwtcyTDcv15AAAl
+{ _id: '3V5zPPwtcyTDcv15AAAl',
+  action: 'disconnect',
+  name: 'administrator' }
+3V5zPPwtcyTDcv15AAAl
+Socket disconnected: 3V5zPPwtcyTDcv15AAAl
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: Van2nqL8ZgR0fGmBAAAm
+{ _id: 'Van2nqL8ZgR0fGmBAAAm',
+  action: 'disconnect',
+  name: 'administrator' }
+Van2nqL8ZgR0fGmBAAAm
+Socket disconnected: Van2nqL8ZgR0fGmBAAAm
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: GxFBz1ppB6KZVaJBAAAn
+{ _id: 'GxFBz1ppB6KZVaJBAAAn',
+  action: 'disconnect',
+  name: 'administrator' }
+GxFBz1ppB6KZVaJBAAAn
+Socket disconnected: GxFBz1ppB6KZVaJBAAAn
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: V2YPjWpxQX9A_LzCAAAo
+{ _id: 'V2YPjWpxQX9A_LzCAAAo',
+  action: 'disconnect',
+  name: 'administrator' }
+V2YPjWpxQX9A_LzCAAAo
+Socket disconnected: V2YPjWpxQX9A_LzCAAAo
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: X3Si_T6w1wW9XXHmAAAp
+{ _id: 'X3Si_T6w1wW9XXHmAAAp',
+  action: 'disconnect',
+  name: 'administrator' }
+X3Si_T6w1wW9XXHmAAAp
+Socket disconnected: X3Si_T6w1wW9XXHmAAAp
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: 4F1GHldAdaBoooUYAAAq
+{ _id: '4F1GHldAdaBoooUYAAAq',
+  action: 'disconnect',
+  name: 'administrator' }
+4F1GHldAdaBoooUYAAAq
+Socket disconnected: 4F1GHldAdaBoooUYAAAq
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: -NFHpNWm89CxLU-1AAAr
+{ _id: '-NFHpNWm89CxLU-1AAAr',
+  action: 'disconnect',
+  name: 'administrator' }
+-NFHpNWm89CxLU-1AAAr
+Socket disconnected: -NFHpNWm89CxLU-1AAAr
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: -54dsFD6ZaWdd2S_AAAs
+{ _id: '-54dsFD6ZaWdd2S_AAAs',
+  action: 'disconnect',
+  name: 'administrator' }
+-54dsFD6ZaWdd2S_AAAs
+Socket disconnected: -54dsFD6ZaWdd2S_AAAs
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: 7-DM-hi8FLEe_PRqAAAt
+{ _id: '7-DM-hi8FLEe_PRqAAAt',
+  action: 'disconnect',
+  name: 'administrator' }
+7-DM-hi8FLEe_PRqAAAt
+Socket disconnected: 7-DM-hi8FLEe_PRqAAAt
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: n3KMYoIR4hVWBhgAAAAu
+{ _id: 'n3KMYoIR4hVWBhgAAAAu',
+  action: 'disconnect',
+  name: 'administrator' }
+n3KMYoIR4hVWBhgAAAAu
+Socket disconnected: n3KMYoIR4hVWBhgAAAAu
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: Pkj2zhJpTLj2gf0EAAAv
+{ _id: 'Pkj2zhJpTLj2gf0EAAAv',
+  action: 'disconnect',
+  name: 'administrator' }
+Pkj2zhJpTLj2gf0EAAAv
+Socket disconnected: Pkj2zhJpTLj2gf0EAAAv
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: 3ZqDYl30-g3lGYu4AAAw
+{ _id: '3ZqDYl30-g3lGYu4AAAw',
+  action: 'disconnect',
+  name: 'administrator' }
+3ZqDYl30-g3lGYu4AAAw
+Socket disconnected: 3ZqDYl30-g3lGYu4AAAw
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: ibLI9J5PkL3berVvAAAx
+{ _id: 'ibLI9J5PkL3berVvAAAx',
+  action: 'disconnect',
+  name: 'alvian' }
+ibLI9J5PkL3berVvAAAx
+Socket disconnected: ibLI9J5PkL3berVvAAAx
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: NLHTDqswd7FUITI3AAAy
+{ _id: 'NLHTDqswd7FUITI3AAAy',
+  action: 'disconnect',
+  name: 'alvian' }
+NLHTDqswd7FUITI3AAAy
+Socket disconnected: NLHTDqswd7FUITI3AAAy
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: PX0CShIaUjH4ZnCRAAAz
+{ _id: 'PX0CShIaUjH4ZnCRAAAz',
+  action: 'disconnect',
+  name: 'alvian' }
+PX0CShIaUjH4ZnCRAAAz
+Socket disconnected: PX0CShIaUjH4ZnCRAAAz
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: nbF1Dwhn2C1ntLvgAAA0
+{ _id: 'nbF1Dwhn2C1ntLvgAAA0',
+  action: 'disconnect',
+  name: 'administrator' }
+nbF1Dwhn2C1ntLvgAAA0
+Socket disconnected: nbF1Dwhn2C1ntLvgAAA0
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: IKPaCVZ89YLPk5aiAAA1
+{ _id: 'IKPaCVZ89YLPk5aiAAA1',
+  action: 'disconnect',
+  name: 'administrator' }
+IKPaCVZ89YLPk5aiAAA1
+Socket disconnected: IKPaCVZ89YLPk5aiAAA1
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: vk_1PNLmOTXaFhKTAAA2
+{ _id: 'vk_1PNLmOTXaFhKTAAA2',
+  action: 'disconnect',
+  name: 'administrator' }
+vk_1PNLmOTXaFhKTAAA2
+Socket disconnected: vk_1PNLmOTXaFhKTAAA2
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: 68cd2XI-b64-kkgsAAA3
+{ _id: '68cd2XI-b64-kkgsAAA3',
+  action: 'disconnect',
+  name: 'administrator' }
+68cd2XI-b64-kkgsAAA3
+Socket disconnected: 68cd2XI-b64-kkgsAAA3
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: bt4rdrRycb30v1UjAAA4
+{ _id: 'bt4rdrRycb30v1UjAAA4',
+  action: 'disconnect',
+  name: 'administrator' }
+bt4rdrRycb30v1UjAAA4
+Socket disconnected: bt4rdrRycb30v1UjAAA4
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: a3DPHaDZVBUR4u7oAAA5
+{ _id: 'a3DPHaDZVBUR4u7oAAA5',
+  action: 'disconnect',
+  name: 'administrator' }
+a3DPHaDZVBUR4u7oAAA5
+Socket disconnected: a3DPHaDZVBUR4u7oAAA5
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: ZtR6rKz0zo8rJd-hAAA6
+{ _id: 'ZtR6rKz0zo8rJd-hAAA6',
+  action: 'disconnect',
+  name: 'administrator' }
+ZtR6rKz0zo8rJd-hAAA6
+Socket disconnected: ZtR6rKz0zo8rJd-hAAA6
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: TQik2VwytK6nDuu6AAA7
+{ _id: 'TQik2VwytK6nDuu6AAA7',
+  action: 'disconnect',
+  name: 'alvian' }
+TQik2VwytK6nDuu6AAA7
+Socket disconnected: TQik2VwytK6nDuu6AAA7
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: kgJGbLITLFRgA_uyAAA8
+{ _id: 'kgJGbLITLFRgA_uyAAA8',
+  action: 'disconnect',
+  name: 'alvian' }
+kgJGbLITLFRgA_uyAAA8
+Socket disconnected: kgJGbLITLFRgA_uyAAA8
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: 6twuNwlHHCb55eFLAAA9
+{ _id: '6twuNwlHHCb55eFLAAA9',
+  action: 'disconnect',
+  name: 'alvian' }
+6twuNwlHHCb55eFLAAA9
+Socket disconnected: 6twuNwlHHCb55eFLAAA9
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: 3TXod2GhZUlH0-pTAAA-
+{ _id: '3TXod2GhZUlH0-pTAAA-',
+  action: 'disconnect',
+  name: 'alvian' }
+3TXod2GhZUlH0-pTAAA-
+Socket disconnected: 3TXod2GhZUlH0-pTAAA-
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: TNBU6fKLvlID8j52AAA_
+{ _id: 'TNBU6fKLvlID8j52AAA_',
+  action: 'disconnect',
+  name: 'alvian' }
+TNBU6fKLvlID8j52AAA_
+Socket disconnected: TNBU6fKLvlID8j52AAA_
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: KvEUyHYE41PshYNxAABA
+{ _id: 'KvEUyHYE41PshYNxAABA',
+  action: 'disconnect',
+  name: 'alvian' }
+KvEUyHYE41PshYNxAABA
+Socket disconnected: KvEUyHYE41PshYNxAABA
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: 8_VccFSF5I8OEV1GAABB
+{ _id: '8_VccFSF5I8OEV1GAABB',
+  action: 'disconnect',
+  name: 'administrator' }
+8_VccFSF5I8OEV1GAABB
+Socket disconnected: 8_VccFSF5I8OEV1GAABB
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: gKfq7FugAJSQtYPgAABC
+{ _id: 'gKfq7FugAJSQtYPgAABC',
+  action: 'disconnect',
+  name: 'administrator' }
+gKfq7FugAJSQtYPgAABC
+Socket disconnected: gKfq7FugAJSQtYPgAABC
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: bX6EcJFB6DZyao97AABD
+{ _id: 'bX6EcJFB6DZyao97AABD',
+  action: 'disconnect',
+  name: 'administrator' }
+bX6EcJFB6DZyao97AABD
+Socket disconnected: bX6EcJFB6DZyao97AABD
+undefined
+Socket Connected: 76LSdo5zBx2S8Y3cAABE
+undefined
+Socket Connected: kKvkav_byW-Bh1_EAABF
+undefined
+Socket Connected: 6vqWETKpJjTszDndAABG
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: ZPG0HG-bFZ-YwLj-AABH
+{ _id: 'ZPG0HG-bFZ-YwLj-AABH',
+  action: 'disconnect',
+  name: 'administrator' }
+ZPG0HG-bFZ-YwLj-AABH
+Socket disconnected: ZPG0HG-bFZ-YwLj-AABH
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: j_ZrhRwUCVB7tAPJAABI
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: eniGUmdFQVAenOuBAABJ
+{ _id: 'eniGUmdFQVAenOuBAABJ',
+  action: 'disconnect',
+  name: 'alvian' }
+eniGUmdFQVAenOuBAABJ
+Socket disconnected: eniGUmdFQVAenOuBAABJ
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: MtHZeakJOh09cgt4AABK
+{ _id: 'j_ZrhRwUCVB7tAPJAABI',
+  action: 'disconnect',
+  name: 'administrator' }
+j_ZrhRwUCVB7tAPJAABI
+Socket disconnected: j_ZrhRwUCVB7tAPJAABI
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: nD5xNIZGvID1ZL7DAABL
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: mgY3at09fI4w2HrRAABM
+{ _id: 'MtHZeakJOh09cgt4AABK',
+  action: 'disconnect',
+  name: 'alvian' }
+MtHZeakJOh09cgt4AABK
+Socket disconnected: MtHZeakJOh09cgt4AABK
+{ _id: 'mgY3at09fI4w2HrRAABM',
+  action: 'disconnect',
+  name: 'alvian' }
+mgY3at09fI4w2HrRAABM
+Socket disconnected: mgY3at09fI4w2HrRAABM
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: t4pLka9_9rwom_CAAABN
+{ _id: 't4pLka9_9rwom_CAAABN',
+  action: 'disconnect',
+  name: 'alvian' }
+t4pLka9_9rwom_CAAABN
+Socket disconnected: t4pLka9_9rwom_CAAABN
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: oW2tnz2DzgRApU2rAABO
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: 5xUeapfr4J6HmBTdAABP
+{ _id: 'oW2tnz2DzgRApU2rAABO',
+  action: 'disconnect',
+  name: 'alvian' }
+oW2tnz2DzgRApU2rAABO
+Socket disconnected: oW2tnz2DzgRApU2rAABO
+{ _id: '5xUeapfr4J6HmBTdAABP',
+  action: 'disconnect',
+  name: 'alvian' }
+5xUeapfr4J6HmBTdAABP
+Socket disconnected: 5xUeapfr4J6HmBTdAABP
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: tmwetKiehIzIuGqdAABQ
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: PXVsfGoz0mjyhcRKAABR
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: SVhsKFq6ehTBL5SnAABS
+{ _id: 'tmwetKiehIzIuGqdAABQ',
+  action: 'disconnect',
+  name: 'alvian' }
+tmwetKiehIzIuGqdAABQ
+Socket disconnected: tmwetKiehIzIuGqdAABQ
+{ _id: 'PXVsfGoz0mjyhcRKAABR',
+  action: 'disconnect',
+  name: 'alvian' }
+PXVsfGoz0mjyhcRKAABR
+Socket disconnected: PXVsfGoz0mjyhcRKAABR
+{ _id: 'SVhsKFq6ehTBL5SnAABS',
+  action: 'disconnect',
+  name: 'alvian' }
+SVhsKFq6ehTBL5SnAABS
+Socket disconnected: SVhsKFq6ehTBL5SnAABS
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: IU4A7WYIhWcCisupAABT
+{ _id: 'IU4A7WYIhWcCisupAABT',
+  action: 'disconnect',
+  name: 'alvian' }
+IU4A7WYIhWcCisupAABT
+Socket disconnected: IU4A7WYIhWcCisupAABT
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: FIzKF5BoNs-AFlJmAABU
+{ _id: 'FIzKF5BoNs-AFlJmAABU',
+  action: 'disconnect',
+  name: 'alvian' }
+FIzKF5BoNs-AFlJmAABU
+Socket disconnected: FIzKF5BoNs-AFlJmAABU
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: fi0WNT_RCQLhZU5kAABV
+{ _id: 'fi0WNT_RCQLhZU5kAABV',
+  action: 'disconnect',
+  name: 'alvian' }
+fi0WNT_RCQLhZU5kAABV
+Socket disconnected: fi0WNT_RCQLhZU5kAABV
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: IrCEXvvi2IhPnjojAABW
+{ _id: 'IrCEXvvi2IhPnjojAABW',
+  action: 'disconnect',
+  name: 'alvian' }
+IrCEXvvi2IhPnjojAABW
+Socket disconnected: IrCEXvvi2IhPnjojAABW
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: n2tga_40ZtmIwAEPAABX
+{ _id: 'n2tga_40ZtmIwAEPAABX',
+  action: 'disconnect',
+  name: 'alvian' }
+n2tga_40ZtmIwAEPAABX
+Socket disconnected: n2tga_40ZtmIwAEPAABX
+{"name":"alvian","appName":"yuuLTE"}
+Socket Connected: ptKM3PAFM5sWZwA2AABY
+{ _id: 'ptKM3PAFM5sWZwA2AABY',
+  action: 'disconnect',
+  name: 'alvian' }
+ptKM3PAFM5sWZwA2AABY
+Socket disconnected: ptKM3PAFM5sWZwA2AABY
+{ _id: 'nD5xNIZGvID1ZL7DAABL',
+  action: 'disconnect',
+  name: 'administrator' }
+nD5xNIZGvID1ZL7DAABL
+Socket disconnected: nD5xNIZGvID1ZL7DAABL
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: 8e9NyHLO_geas-xAAABZ
+{ _id: '8e9NyHLO_geas-xAAABZ',
+  action: 'disconnect',
+  name: 'administrator' }
+8e9NyHLO_geas-xAAABZ
+Socket disconnected: 8e9NyHLO_geas-xAAABZ
+undefined
+Socket Connected: qJ6PctO2JtVsqJBiAABa
+undefined
+Socket Connected: HrqdYqlB4pvckKYTAABb
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: hOAHr-C0vQdT3n4DAABc
+undefined
+Socket Connected: rxy5H42_8BjdPzuzAABd
+undefined
+Socket Connected: AmpptuwOQNhUzMNQAABe
+{ _id: 'hOAHr-C0vQdT3n4DAABc',
+  action: 'disconnect',
+  name: 'administrator' }
+hOAHr-C0vQdT3n4DAABc
+Socket disconnected: hOAHr-C0vQdT3n4DAABc
+undefined
+Socket Connected: YWRQnKcIpUmRXu5tAABf
+undefined
+Socket Connected: Mtk4sgpkKZXH86r_AABg
+undefined
+Socket Connected: Xluw-InjCY-LQabXAABh
+undefined
+Socket Connected: pqMFFt0kvKHc4-vaAABi
+undefined
+Socket Connected: 2C_ezZ5bbFjvS4m5AABj
+undefined
+Socket Connected: 43BlVgzviu-tv6_yAABk
+undefined
+Socket Connected: 7STrOb7nmvH-P3_1AABl
+undefined
+Socket Connected: yZZOr6Z1mwPNJJYlAABm
+undefined
+Socket Connected: cGveREgi6XBMOnIjAABn
+undefined
+Socket Connected: xPRBhT_6SYHOZNDyAABo
+undefined
+Socket Connected: iEThozHu_Uf37EuMAABp
+undefined
+Socket Connected: 4_VsarpNNa8jNTm9AABq
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: vVLrUOgPQyp013mMAABr
+{ _id: 'vVLrUOgPQyp013mMAABr',
+  action: 'disconnect',
+  name: 'administrator' }
+vVLrUOgPQyp013mMAABr
+Socket disconnected: vVLrUOgPQyp013mMAABr
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: wpuJTGnlYC8Bp1lrAABs
+{ _id: 'wpuJTGnlYC8Bp1lrAABs',
+  action: 'disconnect',
+  name: 'administrator' }
+wpuJTGnlYC8Bp1lrAABs
+Socket disconnected: wpuJTGnlYC8Bp1lrAABs
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: uofK0up8B_37pA2yAABt
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: qjfFgx9RqvidAOaBAABu
+{ _id: 'uofK0up8B_37pA2yAABt',
+  action: 'disconnect',
+  name: 'administrator' }
+uofK0up8B_37pA2yAABt
+Socket disconnected: uofK0up8B_37pA2yAABt
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: pWlpzt_qSruJ57j_AABv
+{ _id: 'qjfFgx9RqvidAOaBAABu',
+  action: 'disconnect',
+  name: 'administrator' }
+qjfFgx9RqvidAOaBAABu
+Socket disconnected: qjfFgx9RqvidAOaBAABu
+{ _id: 'pWlpzt_qSruJ57j_AABv',
+  action: 'disconnect',
+  name: 'administrator' }
+pWlpzt_qSruJ57j_AABv
+Socket disconnected: pWlpzt_qSruJ57j_AABv
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: Ayfp8k69kGfa2GbLAABw
+{ _id: 'Ayfp8k69kGfa2GbLAABw',
+  action: 'disconnect',
+  name: 'administrator' }
+Ayfp8k69kGfa2GbLAABw
+Socket disconnected: Ayfp8k69kGfa2GbLAABw
+{"name":"administrator","appName":"yuuLTE"}
+Socket Connected: L_53Lj9bK6nuWHFQAABx
+{ _id: 'L_53Lj9bK6nuWHFQAABx',
+  action: 'disconnect',
+  name: 'administrator' }
+L_53Lj9bK6nuWHFQAABx
+Socket disconnected: L_53Lj9bK6nuWHFQAABx
+undefined
+Socket Connected: J5M36BGggCMJAiOqAABy
+undefined
+Socket Connected: c9g9AHbV6mF3qWOCAABz
+undefined
+Socket Connected: Y6Cl7-jeHyaaaSIrAAB0
+undefined
+Socket Connected: RIt1GKUAC623Xwt_AAB1

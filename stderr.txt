@@ -1,0 +1,601 @@
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error { MongoNetworkError: connection 55 to localhost:27017 timed out
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:258:7)
+    at Socket.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Socket.emit (events.js:185:7)
+    at Socket._onTimeout (net.js:338:8)
+    at ontimeout (timers.js:386:11)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+  name: 'MongoNetworkError',
+  message: 'connection 55 to localhost:27017 timed out' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: connection 402 to localhost:27017 timed out
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:258:7)
+    at Socket.g (events.js:292:16)
+    at emitNone (events.js:86:13)
+    at Socket.emit (events.js:185:7)
+    at Socket._onTimeout (net.js:338:8)
+    at ontimeout (timers.js:386:11)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+  name: 'MongoNetworkError',
+  message: 'connection 402 to localhost:27017 timed out' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]
+    at Pool.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/topologies/server.js:503:11)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/pool.js:326:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/var/www/html/chat/node_modules/mongodb-core/lib/connection/connection.js:245:50)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ENOBUFS 127.0.0.1:27017 - Local (undefined:undefined)]' }
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+There was an error SyntaxError: Unexpected token u in JSON at position 0
+    at Object.parse (native)
+    at Namespace.<anonymous> (/var/www/html/chat/indexAngular.js:31:20)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:188:7)
+    at Namespace.emit (/var/www/html/chat/node_modules/socket.io/lib/namespace.js:212:10)
+    at /var/www/html/chat/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+node_redis: Deprecated: The HSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
